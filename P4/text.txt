@@ -1,0 +1,2 @@
+La carpeta informes/ contiene resúmenes detallados del modelo de clustering utilizado, métricas de evaluación del rendimiento del modelo, 
+y visualizaciones gráficas que muestran la distribución de los datos en los diferentes clusters generados.

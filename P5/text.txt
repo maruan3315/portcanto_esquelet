@@ -1,0 +1,5 @@
+He añadido el comentario del módulo en la primera linea;
+Quitado un import que no se usa;
+Texto en mayúscula en el nombre de las variables constantes;
+cortar una linea de texto que era muy larga
+Quitar espacios

@@ -1,0 +1,23 @@
+1. Configurar Git con tu nombre y mail
+git config --global user.name "tu-nombre-de-usuario"
+git config --global user.email "tu-email"
+
+2. Inicializar repositorio en el directorio del proyecto
+git init
+
+3. Añadir todos los archivos al área de preparación
+git add .
+
+4. Hacer un commit inicial
+git commit -m "Primer commit"
+
+5. Crear un nuevo repositorio en GitHub y copiar la URL del repositorio
+
+6. Añadir el repositorio remoto
+git remote add origin "url"
+
+7. Subir los cambios al repositorio remoto en la rama principal
+git push -u origin master
+
+
+(tener en cuenta la clave ssh, yo ya la teía configurada...)

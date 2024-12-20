@@ -1,0 +1,11 @@
+Guardar los modelos con la librería pickle es útil porque permite almacenar el estado de un objeto Python, 
+como un modelo de machine learning, en un archivo. Esto permite cargar el modelo más tarde 
+sin tener que volver a entrenarlo, lo que ahorra tiempo y recursos computacionales. 
+La librería pickle es necesaria porque proporciona una forma sencilla de serializar y deserializar 
+objetos Python.
+
+Para hacer la asociación entre los 4 tipos de ciclistas y las clases que ha encontrado el modelo, 
+se han seguido los siguientes pasos:
+1- Entrenar el modelo de clustering con los datos de los ciclistas.
+2- Asignar etiquetas a los ciclistas basándose en las características de cada tipo.
+3- Guardar el modelo y las etiquetas usando pickle.
